@@ -65,7 +65,7 @@ public class MatchPlayer{
 		// to get player list before getting cards
 		Log.consoleln("setDeck()");
 		ArrayList<Integer> card_ids = new ArrayList<Integer>();
-                card_ids.add(1004);
+                card_ids.add(95);
 		card_ids.add(13); // herbivores
 		card_ids.add(13);
 		card_ids.add(14);
