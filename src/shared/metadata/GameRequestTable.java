@@ -103,7 +103,7 @@ public class GameRequestTable {
         add(NetworkCode.MATCH_ACTION, "cow.net.request.RequestMatchAction");
         add(NetworkCode.MATCH_START, "cow.net.request.RequestMatchStart");
         add(NetworkCode.RETURN_LOBBY, "cow.net.request.RequestReturnLobby");
-        add(NetworkCode.APPLY_FOOD, "cow.net.request.RequestFood");
+        add(NetworkCode.APPLY_FOOD, "cow.net.request.RequestFoodCard");
         Log.println("Done!");
     }
 
